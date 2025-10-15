@@ -1,0 +1,45 @@
+C:\Bancolombia\CatalogadorAuto\
+├── 📄 Documentación\
+│   ├── 📋 Manual_Usuario.md
+│   ├── 🔧 Manual_Tecnico.md
+│   └── 📊 KPIs_Metricas.md
+│
+├── 🔧 Scripts\                          # ✅ TODOS LOS SCRIPTS AQUÍ
+│   ├── 🚀 main_orchestrator.ps1         # Script principal
+│   ├── 📸 screenshot_handler.ps1        # Manejo de "capturas"
+│   ├── 📁 file_operations.ps1           # Operaciones de archivo
+│   ├── 📊 status_tracker.ps1            # Seguimiento de estado
+│   ├── 🏗️ setup_environment.ps1         # Configuración inicial
+│   ├── 🔐 config_permisos.ps1           # Configura permisos
+│   ├── ⚙️ config_variables_entorno.ps1  # Variables de entorno
+│   ├── 📈 dashboard_monitoreo.ps1       # Dashboard de métricas
+│   ├── 🚀 deploy_catalogador.ps1        # Despliegue
+│   ├── 🧪 test_components.ps1           # Pruebas unitarias
+│   ├── 🔗 test_integracion.ps1          # Pruebas integración
+│   └── 📧 notificaciones.ps1            # Sistema de alertas
+│
+├── 📊 Logs\                             # ✅ TODOS LOS LOGS AQUÍ
+│   ├── 📋 execution_YYYYMMDD.log        # Logs de ejecución
+│   ├── 🔧 operations.log                # Operaciones detalladas
+│   ├── 📸 Screenshots\                  # "Capturas" en texto
+│   │   └── paso1_20231201_143022.txt
+│   ├── 🚨 Errores\                      # Logs de errores
+│   │   └── error_copia_20231201_143025.txt
+│   ├── 📍 Estados\                      # Estados en tiempo real
+│   │   └── CATALOG_20231201143022.status
+│   ├── 👁️ Auditoria\                   # Logs de auditoría
+│   └── 📄 Reportes\                     # Reportes generados
+│       ├── execution_report_CATALOG_20231201143022.txt
+│       └── error_report_CATALOG_20231201143025.txt
+│
+├── 💾 Backups\                          # ✅ BACKUPS AQUÍ
+│   ├── 📅 Diarios\
+│   ├── 📆 Semanales\
+│   └️── 📅 Mensuales\
+│
+├── 🗑️ Temp\                             # Archivos temporales
+├── 🔄 Cache\                            # Cache del sistema
+└── 📁 Config\                           # Archivos de configuración
+    ├── ⚙️ config_alertas.json
+    ├️── 🔧 config_azure_devops.json
+    └── 📊 config_metricas.json

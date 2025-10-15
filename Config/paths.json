@@ -1,0 +1,8 @@
+﻿{
+    "python_scripts": "C:\Automatizacion_BMM_Catalogador_pruebas\\Python",
+    "powershell_scripts": "C:\Automatizacion_BMM_Catalogador_pruebas\\PowerShell", 
+    "logs_directory": "C:\Automatizacion_BMM_Catalogador_pruebas\\Logs",
+    "backups_directory": "C:\Automatizacion_BMM_Catalogador_pruebas\\Backups",
+    "temp_directory": "C:\Automatizacion_BMM_Catalogador_pruebas\\Temp",
+    "cache_directory": "C:\Automatizacion_BMM_Catalogador_pruebas\\Cache"
+}

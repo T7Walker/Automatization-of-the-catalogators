@@ -1,0 +1,28 @@
+C:\Bancolombia\CatalogadorAuto\
+├── 🐍 Python\                          # ORQUESTADOR PRINCIPAL + IA
+│   ├── catalogador_principal.py        # ✅ ORQUESTADOR PRINCIPAL
+│   ├── ia_handler.py                   # ✅ ANÁLISIS CON IA
+│   ├── azure_handler.py                # ✅ CONEXIÓN AZURE DEVOPS
+│   ├── control_pasos_validator.py      # ✅ VALIDACIÓN CONTROL PASOS
+│   ├── file_operations.py              # ✅ COORDINACIÓN ARCHIVOS
+│   ├── notificacion_handler.py         # ✅ NOTIFICACIONES
+│   ├── powerautomate_interface.py      # ✅ POWER AUTOMATE
+│   └── config.py                       # ✅ CONFIGURACIÓN
+│
+├── 🔧 PowerShell\                      # OPERACIONES SISTEMA + VALIDACIONES CRÍTICAS
+│   ├── sistema_severidad_actualizado.ps1    # ✅ VALIDACIONES SIN IA
+│   ├── sistema_notificaciones.ps1           # ✅ NOTIFICACIONES
+│   ├── config_umbrales.ps1                  # ✅ CONFIGURACIÓN
+│   ├── logica_fuentes.ps1                   # ✅ LÓGICA FUENTES
+│   ├── validacion_precondicion.ps1          # ✅ PRECONDICIONES
+│   ├── verificacion_links.ps1               # ✅ VERIFICACIÓN LINKS
+│   ├── funciones_auxiliares_completas.ps1   # ✅ FUNCIONES AUX
+│   ├── screenshot_handler.ps1               # ✅ CAPTURAS TEXTO
+│   ├── file_operations.ps1                  # ✅ OPERACIONES ARCHIVO
+│   ├── status_tracker.ps1                   # ✅ SEGUIMIENTO
+│   └── setup_environment.ps1                # ✅ SETUP
+│
+├── 📊 Logs\                              # LOGS COMPARTIDOS
+├── 💾 Backups\                           # BACKUPS
+├── 🗑️ Temp\                              # TEMPORALES
+└── 🔄 Cache\                             # CACHE
