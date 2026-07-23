@@ -1,7 +1,8 @@
-﻿{
-    "project_name": "CatalogadorAutomatico",
-    "version": "1.0.0",
+{
+    "project_name": "CatalogAutomator",
+    "version": "2.0.0",
     "environment": "development",
-    "base_path": "C:\Automatizacion_BMM_Catalogador_pruebas",
-    "created_date": "2025-10-15 09:28:08"
+    "base_path": "C:\\AutomationProject",
+    "created_date": "2025-10-15 09:28:08",
+    "last_updated": "2026-07-22"
 }
